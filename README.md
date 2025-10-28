@@ -1,1 +1,1 @@
-# Sartup-Lending-Model
+# Sartup Lending Model
